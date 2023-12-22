@@ -1,4 +1,4 @@
-#Automatic score calculator for the game Double Double Dominoes
+# Automatic score calculator for the game Double Double Dominoes
 
 1. the libraries required to run the project including the full version of each library
 
